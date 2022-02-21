@@ -5,7 +5,15 @@
 
 body {
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	background: #d63b3b;
+	background: #9b9898;
+}
+
+.hola{
+	font-size: xx-large;
+}
+
+.adios{
+	font-size: large;
 }
 
 .flex-container {
